@@ -1,0 +1,11 @@
+# Query: easily control
+# ContextLines: 1
+
+1 result - 1 file
+
+src/components/Billing.jsx:
+  16        <div className={layout.sectionInfo}>
+  17        <div className={layout.sectionInfo}>
+  18:         <h2 className={styles.heading2}>How it would work<br className='sm:block hidden'/> billing & invoicing.</h2>
+  18          <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
+  19          <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
